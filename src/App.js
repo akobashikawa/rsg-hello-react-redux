@@ -1,15 +1,20 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { connect } from 'react-redux';
 
 import { hello } from './actions';
 
 // App using connected props
-const App = (props) => {
-	props.hello();
-	return (
-		<div> {props.message} </div>
-	);
-};
+class App extends Component {
+	componentWillMount() {
+		this.props.hello();
+	}
+	
+	render() {
+		return (
+			<div> {this.props.message} </div>
+		);
+	};
+}
 
 function mapStateToProps(state) {
   return {
