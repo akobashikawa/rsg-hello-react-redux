@@ -30,3 +30,4 @@ $ git checkout <branch-name>
 - [02-simple-structure](https://github.com/akobashikawa/rsg-hello-react-redux/tree/02-simple-structure)
 - [03-simple-structure-component](https://github.com/akobashikawa/rsg-hello-react-redux/tree/03-simple-structure-component)
 - [04-hello-click](https://github.com/akobashikawa/rsg-hello-react-redux/tree/04-hello-click)
+- [05-counter](https://github.com/akobashikawa/rsg-hello-react-redux/tree/05-counter)
