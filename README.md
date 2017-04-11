@@ -1,7 +1,7 @@
-# Simple Hello World
+# Simple Structure
 
-Using redux with a simple component in the same file.
+Using redux with a simple component and simple structure of directories.
 
 ---
 
-Usando redux con un component simple en el mismo archivo.
+Usando redux con un component simple y una simple estructura de directorios.
