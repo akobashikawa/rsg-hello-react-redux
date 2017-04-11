@@ -25,3 +25,4 @@ $ git checkout <branch-name>
 ## Branches
 
 - [master](https://github.com/akobashikawa/rsg-hello-react-redux)
+- [00-initial](https://github.com/akobashikawa/rsg-hello-react-redux/tree/00-initial)
