@@ -1,8 +1,20 @@
-// reducer
 export const helloReducer = (state, action) => {
 	switch (action.type) {
 		case 'HELLO':
 			return 'Hello Click!';
+		default:
+			return state;
+	}
+};
+
+export const counterReducer = (state = 0, action) => {
+	switch (action.type) {
+		case 'DECREMENT':
+			return state - 1;
+		case 'INCREMENT':
+			return state + 1;
+		case 'RESET':
+			return 0;
 		default:
 			return state;
 	}

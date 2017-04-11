@@ -1,7 +1,7 @@
-# Hello Click
+# Counter
 
-Print Hello when click.
+Simple Counter.
 
 ---
 
-Imprime Hello al hacer click.
+Contador simple.
