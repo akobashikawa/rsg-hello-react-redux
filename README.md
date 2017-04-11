@@ -27,3 +27,4 @@ $ git checkout <branch-name>
 - [master](https://github.com/akobashikawa/rsg-hello-react-redux)
 - [00-initial](https://github.com/akobashikawa/rsg-hello-react-redux/tree/00-initial)
 - [01-simple-helloworld](https://github.com/akobashikawa/rsg-hello-react-redux/tree/01-simple-helloworld)
+- [02-simple-structure](https://github.com/akobashikawa/rsg-hello-react-redux/tree/02-simple-structure)
