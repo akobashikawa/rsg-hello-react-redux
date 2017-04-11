@@ -1,9 +1,7 @@
-### React Study Group
+# Simple Hello World
 
-# Hello React Redux
+Using redux with a simple component in the same file.
 
-Simple examples to understand React + Redux.
+---
 
-## Initial
-
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+Usando redux con un component simple en el mismo archivo.
