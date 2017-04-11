@@ -2,7 +2,7 @@
 export const helloReducer = (state, action) => {
 	switch (action.type) {
 		case 'HELLO':
-			return 'Hello React Redux One More Time!';
+			return 'Hello Click!';
 		default:
 			return state;
 	}

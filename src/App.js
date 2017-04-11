@@ -1,26 +1,13 @@
 import React, { Component } from 'react';
-import { connect } from 'react-redux';
 
-import { hello } from './actions';
+import Hello from './Hello';
 
-// App using connected props
 class App extends Component {
-	componentWillMount() {
-		this.props.hello();
-	}
-	
 	render() {
 		return (
-			<div> {this.props.message} </div>
+			<Hello />
 		);
 	};
 }
 
-function mapStateToProps(state) {
-  return {
-    message: state
-  };
-}
-
-// App connected to redux
-export default connect(mapStateToProps, { hello })(App);
+export default App;

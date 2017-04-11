@@ -1,7 +1,7 @@
-# Simple Structure and Component
+# Hello Click
 
-Using redux with a Component and simple structure of directories.
+Print Hello when click.
 
 ---
 
-Usando redux con un Component y una simple estructura de directorios.
+Imprime Hello al hacer click.
