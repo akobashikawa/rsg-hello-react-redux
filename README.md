@@ -29,3 +29,4 @@ $ git checkout <branch-name>
 - [01-simple-helloworld](https://github.com/akobashikawa/rsg-hello-react-redux/tree/01-simple-helloworld)
 - [02-simple-structure](https://github.com/akobashikawa/rsg-hello-react-redux/tree/02-simple-structure)
 - [03-simple-structure-component](https://github.com/akobashikawa/rsg-hello-react-redux/tree/03-simple-structure-component)
+- [04-hello-click](https://github.com/akobashikawa/rsg-hello-react-redux/tree/04-hello-click)
